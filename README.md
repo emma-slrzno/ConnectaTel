@@ -1,4 +1,5 @@
-# Proyecto ConnectaTel — Perfil estadístico y segmentación de clientes
+# Proyecto ConnectaTel
+Perfil estadístico y segmentación de clientes
 
 ## Objetivo
 
@@ -54,3 +55,8 @@ Como analista de datos, evaluar el **comportamiento de los clientes** de Connect
 - Reforzar el uso del **método IQR** para detectar outliers y la importancia de decidir con criterio de negocio si deben conservarse o tratarse (no siempre se eliminan).
 - Practicar la creación de **segmentos de clientes** mediante reglas lógicas simples (edad, nivel de uso) como primer paso antes de técnicas más avanzadas (ej. clustering).
 - Aprender a comunicar hallazgos técnicos en un **insight ejecutivo** orientado a decisiones de negocio (planes, retención, pricing).
+
+## Contacto
+
+- LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
+- Perfil de Tableau Public: https://public.tableau.com/views/S11TripleTen/OverviewEjecutivo?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
