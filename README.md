@@ -158,6 +158,10 @@ El notebook carga los archivos desde `/datasets/` (`plans.csv`, `users_latam.csv
 ├── usage.csv
 └── README.md              # Bilingüe (ES/EN)
 ```
+### Contacto
+
+- 💼 LinkedIn: [Emma Solórzano Hernández Jáuregui](https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
+- 📊 Tableau Public: [Ver perfil](https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
 
 [⬆️ Volver arriba](#top) · [🇬🇧 Read in English](#en)
 
@@ -313,5 +317,9 @@ The notebook loads the files from `/datasets/` (`plans.csv`, `users_latam.csv`, 
 ├── usage.csv
 └── README.md              # Bilingual (ES/EN)
 ```
+###  Contact
 
+- 💼 LinkedIn: [Emma Solórzano Hernández Jáuregui](https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
+- 📊 Tableau Public: [View profile](https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
+  
 [⬆️ Back to top](#top) · [🇪🇸 Leer en español](#es)
